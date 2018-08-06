@@ -1,1 +1,1 @@
-# psychic-sniffle
+This is my repository “psychicoffee”.
